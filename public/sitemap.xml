@@ -2,14 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2024-11-10T21:13:44+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/category1/</loc>
+    <lastmod>2024-11-10T21:13:44+08:00</lastmod>
+  </url><url>
     <loc>https://example.com/</loc>
+    <lastmod>2024-11-10T21:13:44+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/my-first-post/</loc>
+    <lastmod>2024-11-10T21:13:44+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/my-second-post/</loc>
     <lastmod>2024-11-10T21:13:44+08:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/</loc>
     <lastmod>2024-11-10T21:13:44+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://example.com/tags/tag1/</loc>
+    <lastmod>2024-11-10T21:13:44+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/tag2/</loc>
+    <lastmod>2024-11-10T21:13:44+08:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/</loc>
+    <lastmod>2024-11-10T21:13:44+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/my-third-post/</loc>
+    <lastmod>2024-11-10T21:13:44+08:00</lastmod>
   </url>
 </urlset>

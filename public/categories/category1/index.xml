@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category1 on Kuromi</title>
-    <link>http://localhost:1313/categories/category1/</link>
+    <link>https://example.com/categories/category1/</link>
     <description>Recent content in Category1 on Kuromi</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Nov 2024 21:13:44 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/categories/category1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>title</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
+      <link>https://example.com/posts/my-third-post/</link>
       <pubDate>Sun, 10 Nov 2024 21:13:44 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <guid>https://example.com/posts/my-third-post/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
   </channel>
